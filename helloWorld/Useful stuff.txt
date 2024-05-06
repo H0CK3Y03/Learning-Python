@@ -1,0 +1,5 @@
+L-Ctrl  +  /  (forward slash[backward one doesn't work])  -->  makes a comment
+L-Alt  +  <LeftMouseButton>  -->  new cursor/text cursor/insertion point (blinking line while texting)
+Holding down middle mouse button allows me to use more than 1 cursor
+L-CTRL + ENTER  --> creates a new line without going to the new line (you stay on the same line, despite a new one being created)
+New line characters in a text are printed as two blank space characters so the space character and new line character don't get confused.
